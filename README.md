@@ -1,12 +1,12 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://uvmatrix.space)
 <h1 align="center">Hi 👋, I'm Mohamed Ben Mohamed</h1>
-<h3 align="center">A passionate fullstack developer from Tunsia</h3>
+<h3 align="center">A passionate fullstack developer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medb2m&label=Profile%20views&color=0e75b6&style=flat" alt="medb2m" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*sp42a5GmqT_VavSq.gif">
 
-- 🌱 I’m currently learning **Angular CLI SpringBoot**
+- 🌱 I’m working **Angular CLI SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://uvmatrix.space/](https://uvmatrix.space/)
 
